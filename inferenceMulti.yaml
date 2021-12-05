@@ -1,0 +1,13 @@
+dataset: /PATHTO/dataset/bw_CHIRAL/dataCHIRALMulti.csv
+model: tv_resnet50
+checkpoint_dir: /PATHTO/outputMulti/multi
+target_module: layer4.2
+mean:
+- 0.9852
+- 0.9852
+- 0.9852
+std:
+- 0.1079
+- 0.1079
+- 0.1079
+gradfile: ['']

@@ -1,0 +1,28 @@
+add_perct: 0.3
+aug: true
+batch_size: 32
+checkpoint_hist: 1
+color2grayscale: false
+dataset: /PATHTO/dataset/bw_CHIRAL/dataCHIRALMulti.csv
+epochs: 20
+eval_metric: acc
+folder_name: multi
+freeze: false
+initial_checkpoint: /PATHTO/pretrained_models/resnet50.pth.tar
+lr: 0.001
+maxI: 16
+mean:
+- 0.9852
+- 0.9852
+- 0.9852
+min_perct: 0.15
+model: tv_resnet50
+output: ''
+pretrain_num_classes: 2
+std:
+- 0.1079
+- 0.1079
+- 0.1079
+transparent2white: false
+
+

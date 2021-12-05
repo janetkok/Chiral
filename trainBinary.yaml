@@ -1,0 +1,21 @@
+batch_size: 32
+checkpoint_hist: 1
+dataset: /PATHTO/dataset/bw_CHIRAL/dataCHIRALBinary.csv
+epochs: 16
+eval_metric: top1
+folder_name: binary
+initial_checkpoint: /PATHTO/pretrained_models/resnet50.pth.tar
+lr: 0.005
+model: tv_resnet50
+output: ''
+pretrain_num_classes: 2
+num_classes: 2
+mean:
+- 0.9852
+- 0.9852
+- 0.9852
+std:
+- 0.1079
+- 0.1079
+- 0.1079
+freeze: true

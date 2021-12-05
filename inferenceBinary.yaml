@@ -1,0 +1,12 @@
+dataset: /PATHTO/dataset/bw_CHIRAL/dataCHIRALBinary.csv
+model: tv_resnet50
+checkpoint_dir: /PATHTO/outputBinary/binary
+mean:
+- 0.9852
+- 0.9852
+- 0.9852
+std:
+- 0.1079
+- 0.1079
+- 0.1079
+gradfile: ['']

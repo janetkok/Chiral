@@ -1,4 +1,5 @@
-# Chiral
+Note that the paper regarding the dataset and the pretrained models has been submitted to the journal Molecular Informatics for review.
+# Identifying Chirality in Line Drawings of Molecules Using Imbalanced Dataset Sampler for a Multilabel Classification Task
 Chirality is the ability of molecules to exist as two forms of non-superimposable mirror images. If the two forms cannot be superimposed on each other through any combination of transaltaion, rotations and conformational (bond rotation) changes, the molecules are achiral. There are four common structural motifs that lead to the identification of molecular chirality, namely centre/point, axial, planar and helical chirality.
 
 <img src="moleculeChirality.png"  />
@@ -16,6 +17,7 @@ The research also demonstrated the potential of a deep learning network to make 
 2. [CHIRAL Dataset](#CHIRAL-Dataset)
 3. [Pretrained Models and the ChEMBL+ dataset](#Pretrained-Models-and-the-ChEMBL+-dataset)
 4. [Usage](##Usage)
+5. [Useful links](##Useful links)
 
 ## Installation
 ```bash
@@ -68,3 +70,8 @@ Binary model
 Multilabel model
 
 `python inferenceMulti.py --config inferenceMulti.yaml`
+
+## Useful links
+- [dataset and pretrained models](https://zenodo.org/record/5759416)
+- [demo wesbsite](https://chiral.cs.nott.ac.uk)
+- [Zooniverse platform](https://www.zooniverse.org/projects/shuxiang/chiral-molecules) for molecule annotation

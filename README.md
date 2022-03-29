@@ -73,5 +73,5 @@ Multilabel model
 
 ## Useful links
 - [dataset and pretrained models](https://zenodo.org/record/5759416)
-- [demo wesbsite](https://chiral.cs.nott.ac.uk)
+- [demo website](https://chiral.cs.nott.ac.uk)
 - [Zooniverse platform](https://www.zooniverse.org/projects/shuxiang/chiral-molecules) for molecule annotation

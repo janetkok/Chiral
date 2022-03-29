@@ -17,7 +17,7 @@ The research also demonstrated the potential of a deep learning network to make 
 2. [CHIRAL Dataset](#CHIRAL-Dataset)
 3. [Pretrained Models and the ChEMBL+ dataset](#Pretrained-Models-and-the-ChEMBL+-dataset)
 4. [Usage](##Usage)
-5. [Useful links](##Useful links)
+5. [Useful links](#Useful links)
 
 ## Installation
 ```bash

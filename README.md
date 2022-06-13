@@ -1,7 +1,7 @@
 # Identifying Chirality in Line Drawings of Molecules Using Imbalanced Dataset Sampler for a Multilabel Classification Task
 ***Yong En Kok, Simon Woodward, Ender Özcan and Mercedes Torres Torres*** 
 
-The paper has been accepted for publication. https://doi.org/10.1002/minf.202200068
+The paper has been accepted for publication: https://doi.org/10.1002/minf.202200068
 
 Chirality is the ability of molecules to exist as two forms of non-superimposable mirror images. If the two forms cannot be superimposed on each other through any combination of transaltaion, rotations and conformational (bond rotation) changes, the molecules are achiral. There are four common structural motifs that lead to the identification of molecular chirality, namely centre/point, axial, planar and helical chirality.
 

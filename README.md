@@ -47,7 +47,7 @@ There are two versions of the ChEMBL+ dataset that are available for download:
 - [preprocessed](https://zenodo.org/record/5759416/files/bw_CHIRAL.zip?download=1) (removal of transparent background and converting them to grayscale images)
 
 ## Pretrained Models and the ChEMBL+ dataset
-The EfficientNetV2 and ResNet50 networks were pretrained on the preprocessed ChEMBL+ dataset.
+The EfficientNetV2 and ResNet50 networks were pretrained on the preprocessed ChEMBL+ dataset. Note that the database is subject to the normal limitations of human curation.
 There are two versions of the ChEMBL+ dataset that are available for download:
 - [raw](https://zenodo.org/record/5759416/files/raw_ChEMBL+.zip?download=1)
 - [preprocessed](https://zenodo.org/record/5759416/files/bw_ChEMBL+.zip?download=1) (removal of transparent background and converting them to grayscale images)

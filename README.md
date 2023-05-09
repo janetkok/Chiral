@@ -16,7 +16,7 @@ To  address  the  label  combination imbalanced  problem  in  the  multilabel  t
 The research also demonstrated the potential of a deep learning network to make predictions that are align with human understanding of chirality through the study of heatmaps.
 
 # Table of contents
-1. [Installation](#Installation)
+1. [Installation](##Installation)
 2. [CHIRAL Dataset](#CHIRAL-Dataset)
 3. [Pretrained Models and the ChEMBL+ dataset](#Pretrained-Models-and-the-ChEMBL+-dataset)
 4. [Usage](##Usage)
